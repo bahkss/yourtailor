@@ -33,7 +33,7 @@ class AppointmentRecordScreen extends StatelessWidget {
             SizedBox(height: 40),
             // Logo Section
             Image.asset(
-              'jarum.png',
+              '123.png',
               width: MediaQuery.of(context).size.width * 0.3, // 80% of the screen width
               height: MediaQuery.of(context).size.height * 0.2, // 40% of the screen height
               fit: BoxFit.contain, // Scales while preserving aspect ratio
